@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iBeacon スキャナー</string>
+
+    <!-- Main Activity -->
+
+    <!-- States -->
+    <string name="state_scanning">Scanning...</string>
+    <string name="state_general_error">Something went wrong.</string>
+    <string name="state_no_permission">Location permission lacking.</string>
+    <string name="state_no_bluetooth">There is no bluetooth on this device.</string>
+    <string name="state_bluetooth_off">Bluetooth is not on.</string>
+    <string name="state_location_off">Location is not on.</string>
+    <string name="button_retry">Retry!</string>
+    <string name="find_beacon">ビーコンに近く移動ください。</string>
+    <string name="discovery">検索</string>
+    <string name="price">7000円</string>
+    <string name="sale_off">SALE OFF</string>
+    <string name="guarantee">"保証 "</string>
+    <string name="year">3年</string>
+    <string name="price_smart_phone">1200円</string>
+    <string name="price_laptop">4500円</string>
+</resources>

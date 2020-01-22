@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iBeacon Scanner</string>
+
+    <!-- Main Activity -->
+
+    <!-- States -->
+    <string name="state_scanning">Scanning...</string>
+    <string name="state_general_error">Something went wrong.</string>
+    <string name="state_no_permission">Location permission lacking.</string>
+    <string name="state_no_bluetooth">There is no bluetooth on this device.</string>
+    <string name="state_bluetooth_off">Bluetooth is not on.</string>
+    <string name="state_location_off">Location is not on.</string>
+    <string name="button_retry">Retry!</string>
+    <string name="find_beacon">Find beacon around and get voucher</string>
+    <string name="discovery">Search</string>
+    <string name="price">7000 $</string>
+    <string name="sale_off">SALE OFF</string>
+    <string name="guarantee">Warranty</string>
+    <string name="year">3 years</string>
+    <string name="price_smart_phone">1200$</string>
+    <string name="price_laptop">4500 $</string>
+</resources>
